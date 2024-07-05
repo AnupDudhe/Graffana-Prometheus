@@ -27,7 +27,7 @@ Now we will install the Prometheus on one of the EC2 Instance. You can download 
 1.  Clone my git repo
 2.  Run the install-prometheus.sh script
 ```shell
-./install-prometheus.sh
+./install-pormetheus.sh
 ```
 3.  This script will install everything and configured it. You can change the version as per your project.
 
