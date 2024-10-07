@@ -124,7 +124,7 @@ https://github.com/AnupDudhe/Graffana-Prometheus/tree/main/Promethues-Grafana-Se
 https://www.linode.com/docs/guides/how-to-install-prometheus-and-grafana-on-ubuntu/
 ```
 ------------------------------------------------------------------------------------------------------------------------
-###graffana configuration and downloading 
+### graffana configuration and downloading 
 
 download  graffana from this
 ```
